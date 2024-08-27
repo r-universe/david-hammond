@@ -8,3 +8,6 @@
 [submodule "pmev"]
 	path = pmev
 	url = https://github.com/david-hammond/pmev
+[submodule "tidymodlr"]
+	path = tidymodlr
+	url = https://github.com/david-hammond/tidymodlr
